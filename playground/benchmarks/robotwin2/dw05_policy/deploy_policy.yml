@@ -1,0 +1,2 @@
+policy_class: deploy_policy.DW05RobotWinDeployPolicy
+policy_name: dw05_policy
