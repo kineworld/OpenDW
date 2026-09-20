@@ -1,3 +1,5 @@
+> **勘境 / KineWorld research fork:** 感谢原作者的开源贡献。See [KINEWORLD.md](KINEWORLD.md) for acknowledgements, our changes and validation limits. Original authorship and licenses are preserved.
+
 <div align="center">
   <img src="./assets/logo.PNG" alt="DW05 logo" width="30%" />
   <h1 style="font-size: 2.25em;">DW05: A Multimodal World Model for Embodied Intelligence</h1>
